@@ -1,0 +1,6 @@
+pandas>=3.0
+numpy
+scipy
+statsmodels
+openpyxl
+jupyter
