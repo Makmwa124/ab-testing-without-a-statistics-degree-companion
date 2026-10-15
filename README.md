@@ -52,7 +52,8 @@ Tested with Python 3.13, pandas 3.0, SciPy 1.18 and statsmodels 0.15.
 
 ## Get the book
 
-Paperback and Kindle editions are on Amazon. The PDF bundle with a printable cheat sheet is on Gumroad at [mathewkariuki.gumroad.com](https://mathewkariuki.gumroad.com).
+- **Book + Excel calculator + practice data (PDF bundle):** [mathewkariuki.gumroad.com/l/ab-testing-without-a-statistics-degree](https://mathewkariuki.gumroad.com/l/ab-testing-without-a-statistics-degree)
+- **Paperback and Kindle:** coming soon on Amazon
 
 ## About
 
