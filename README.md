@@ -53,7 +53,8 @@ Tested with Python 3.13, pandas 3.0, SciPy 1.18 and statsmodels 0.15.
 ## Get the book
 
 - **Book + Excel calculator + practice data (PDF bundle):** [mathewkariuki.gumroad.com/l/ab-testing-without-a-statistics-degree](https://mathewkariuki.gumroad.com/l/ab-testing-without-a-statistics-degree)
-- **Paperback and Kindle:** coming soon on Amazon
+- **Paperback:** [Amazon.com](https://www.amazon.com/dp/B0HNKLWZ7G) · [Amazon.com.au](https://www.amazon.com.au/dp/B0HNKLWZ7G)
+- **Kindle:** [Amazon.com](https://www.amazon.com/dp/B0HNK5KSC2) · [Amazon.com.au](https://www.amazon.com.au/dp/B0HNK5KSC2)
 
 ## About
 
